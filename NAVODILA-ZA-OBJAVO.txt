@@ -1,0 +1,35 @@
+STOPINJE V SVOBODO — ZADNJA VERZIJA ZA OBJAVO
+Datum paketa: 16. 9. 2026
+
+VSEBINA PAKETA
+- Stopinje-v-svobodo-ODPRI.html  (glavna stran na obstoječem javnem naslovu)
+- index.html                    (enaka vsebina za korenski naslov domene)
+- utrinki.html                  (preusmeritev na razdelek Utrinki)
+- prirocnik-stopinje-v-svobodo-web.pdf
+- izza-grajskih-zidov-2023.pdf
+- porocilo-prvi-projekt-2021-01.jpg
+- porocilo-prvi-projekt-2021-02.jpg
+- utrinki-poletni-kino-01.jpg do -04.jpg
+
+V ZADNJI VERZIJI SO VKLJUČENI
+- vsi prej potrjeni razdelki in grafična podoba;
+- 8 jezikov: SL, EN, DE, ES, IT, FR, PL, RU;
+- tekoči logoterapevtski pojmi v izbranem jeziku;
+- Priročnik za delo v zaporskem sistemu (PDF brez tiskarskih porezav);
+- rubrika Mediji z Val 202 / Aktualno 202;
+- glasilo Izza grajskih zidov kot združen spletni PDF;
+- poročilo o prvem projektnem ciklu 2021 z dvema plakatoma in prevodi spremnega besedila;
+- vse odobrene fotografije v Utrinkih, vključno z najnovejšimi fotografijami Poletnega kina;
+- stare fotografije, ki so bile izrecno odstranjene iz galerije, niso ponovno prikazane;
+- fotografije v Utrinkih in plakata 2021 so vgrajeni neposredno v HTML za zanesljiv prikaz.
+
+NAVODILO ZA OBJAVO
+1. Razpakirajte ZIP.
+2. VSE datoteke iz korena paketa naložite v isto spletno mapo, kjer je trenutno Stopinje-v-svobodo-ODPRI.html.
+3. Obstoječe datoteke z enakimi imeni prepišite.
+4. Ne spreminjajte imen PDF/JPG datotek.
+5. Po objavi preverite:
+   https://stopinjevsvobodo.si/Stopinje-v-svobodo-ODPRI.html?lang=sl
+   in preklop PL ter RU.
+
+Opomba: ključne slike so vgrajene neposredno v HTML, zato se galerija in plakata prikažejo tudi, če se zunanje JPG datoteke pomotoma ne naložijo.
